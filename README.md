@@ -1,4 +1,5 @@
 This script is a test version of encryption algorithm invented by myself. 
+Later I will upload a detailed discription of my algorithm
 
 ### Language: 
 python 
